@@ -1,8 +1,0 @@
-c:\users\junaid\documents\visual studio 2013\Projects\SubscriberConsole\SubscriberConsole\bin\Debug\SubscriberConsole.exe.config
-c:\users\junaid\documents\visual studio 2013\Projects\SubscriberConsole\SubscriberConsole\bin\Debug\SubscriberConsole.exe
-c:\users\junaid\documents\visual studio 2013\Projects\SubscriberConsole\SubscriberConsole\bin\Debug\SubscriberConsole.pdb
-c:\users\junaid\documents\visual studio 2013\Projects\SubscriberConsole\SubscriberConsole\obj\Debug\SubscriberConsole.exe
-c:\users\junaid\documents\visual studio 2013\Projects\SubscriberConsole\SubscriberConsole\obj\Debug\SubscriberConsole.pdb
-D:\Project\ZEROMQ new project\Upwork new project\source code of new project\subscriber source code\SubscriberConsole\SubscriberConsole\bin\Debug\SubscriberConsole.exe.config
-D:\Project\ZEROMQ new project\Upwork new project\source code of new project\subscriber source code\SubscriberConsole\SubscriberConsole\obj\Debug\SubscriberConsole.exe
-D:\Project\ZEROMQ new project\Upwork new project\source code of new project\subscriber source code\SubscriberConsole\SubscriberConsole\obj\Debug\SubscriberConsole.pdb
